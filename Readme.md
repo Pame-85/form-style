@@ -1,4 +1,4 @@
-# Proyecto - Form Style
+# Proyecto - Forms Style
 ***
 ## Ejercicio del módulo 2 del curso CAC Node.js💻
 ***
